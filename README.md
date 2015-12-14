@@ -1,3 +1,3 @@
 # Photo-Gallery
 
-![photo](https://cloud.githubusercontent.com/assets/13104724/11788360/7c3831f0-a245-11e5-9c68-86158ae8fafd.png)
+![photo](https://cloud.githubusercontent.com/assets/13104724/11788406/bb8b9a2c-a245-11e5-889b-dcd608cc3f57.png)
